@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', serif;
+}
+
+h1{
+padding: 30px;
+}
+
+h2{
+    color: #000000;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+    margin: 0;
+    font-weight: 600;
+}
+
+h3{
+    color: #3300fd;
+    margin: 10px 0px;
+    font-weight: 400;
+}
+
+div {
+    padding: 30px;
+    background: #f1f1f1;
+    margin: 20px;
+}
